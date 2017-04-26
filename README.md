@@ -41,35 +41,35 @@ Ordre des destructions :
 
 ## Géant
 
-unité immédiatement présente sur le champ de bataille
+immédiatement présent sur le champ de bataille
 attaque : 5
 résistance : 50
 chance de présence : 5 
 
 ## Loup
 
-unité immédiatement présente sur le champ de bataille
+immédiatement présent sur le champ de bataille
 attaque : 3
 résistance : 3
 chance de présence : 20
 
 ## Fantassin
 
-Attaque simple au corps à corps à pied : 3 tours avant d'arriver sur le champ de bataille attaque et déffense.
+3 tours avant d'arriver sur le champ de bataille attaque et défense.
 attaque : 10
 résistance : 10
 chance de présence : 40
 
 ## Chevalier
 
-Attaque rapide à cheval : immédiatement sur le champ de bataille
+immédiatement sur le champ de bataille
 attaque : 15
 résistance : 15
 chance de présence : 10
 
 ## Archer
 
-Attaque simple à distance : 1 tour avant d'attaquer le champ de bataille
+tour avant d'attaquer le champ de bataille
 attaque : 5
 résistance : 5
 chance de présence : 30
@@ -83,53 +83,53 @@ chance de présence : 5
 
 ## Mage
 
-gerrisseurs, dernier sur le champ de bataille, permet d'activer des sorts
+permet d'activer des sorts
 attaque : 0
 résistance : 5
 chance de présence : 20
 
 ## Sapeur
 
-n'attaque qu'une fois et que les chateaux forts
+n'attaque qu'une fois et que les châteaux forts
 attaque : 200
 résistance : 0
 chance de présence : 5
 
-## Chateau fort
+## Château fort
 
-Si cette carte est posé toutes les unités sont protégés, mais il n'y a que les archets qui peuvent attaquer.
-Cette est carte a une durée de vie de 3 tours
+Si cette carte est posée toutes les unités sont protégés, mais il n'y a que les archets qui peuvent attaquer.
+Cette carte a une durée de vie de 3 tours
 attaque : 0
 résistance : 500
 chance de présence : 10
 
 ## Guérison
 
-Cette carte ne peut être posé que si un mage est présent, permet de faire gagner 5 points de vie à toutes les unités vivante (fantassin, archer, chevalier, mage, géant)
+Cette carte ne peut être posée que si un mage est présent, permet de faire gagner 5 points de vie à toutes les unités vivantes (fantassin, archer, chevalier, mage, géant)
 Carte valable 3 tours
 chance de présence : 5
 
 ## Bouclier
 
-Cette carte ne peut être posé que si un mage est présent, permet de faire gagner 5 points de résistance à toutes les unités
+Cette carte ne peut être posée que si un mage est présent, permet de faire gagner 5 points de résistance à toutes les unités
 Carte valable 3 tours
 chance de présence : 5
 
 ## Feux du dragon
 
-Cette carte ne peut être posé que si un mage est présent, permet de faire perdre 3 points de résistance à toutes les unités adverce
+Cette carte ne peut être posée que si un mage est présent, permet de faire perdre 3 points de résistance à toutes les unités adverce
 carte valable 2 tours
 chance de présence : 5
 
-## Envoutement des loups
+## Envoûtement des loups
 
-Cette carte ne peut être posé qye si un mage est présent, permet de rajouter 7 points d'attaque à tous les loups 
+Cette carte ne peut être posée que si un mage est présent, permet de rajouter 7 points d'attaque à tous les loups 
 Carte valable 3 tours
 chance de présence : 5
 
 ## Armement magique
 
-Cette carte ne peut être posé que si un mage est présent, permet de faire gagner 3 points d'attaque à toutes les unités sauf les loups et les géants.
+Cette carte ne peut être posée que si un mage est présent, permet de faire gagner 3 points d'attaque à toutes les unités sauf les loups et les géants.
 Carte valable 3 tours
 chance de présence : 5
 
