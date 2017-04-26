@@ -43,56 +43,56 @@ Ordre des destructions :
 
 unité immédiatement présente sur le champ de bataille
 attaque : 5
-résistence : 50
+résistance : 50
 chance de présence : 5 
 
 ## Loup
 
-unitée immédiatement présente sur le champ de bataille
+unité immédiatement présente sur le champ de bataille
 attaque : 3
-résistence : 3
+résistance : 3
 chance de présence : 20
 
 ## Fantassin
 
 Attaque simple au corps à corps à pied : 3 tours avant d'arriver sur le champ de bataille attaque et déffense.
 attaque : 10
-résistence : 10
+résistance : 10
 chance de présence : 40
 
 ## Chevalier
 
 Attaque rapide à cheval : immédiatement sur le champ de bataille
 attaque : 15
-résistence : 15
+résistance : 15
 chance de présence : 10
 
 ## Archer
 
 Attaque simple à distance : 1 tour avant d'attaquer le champ de bataille
 attaque : 5
-résistence : 5
+résistance : 5
 chance de présence : 30
 
 ## Catapulte
 
 4 tours avant d'arriver sur le champ de bataille
 attaque : 20
-résistence : 20
+résistance : 20
 chance de présence : 5
 
 ## Mage
 
 gerrisseurs, dernier sur le champ de bataille, permet d'activer des sorts
 attaque : 0
-résistence : 5
+résistance : 5
 chance de présence : 20
 
 ## Sapeur
 
 n'attaque qu'une fois et que les chateaux forts
 attaque : 200
-résistence : 0
+résistance : 0
 chance de présence : 5
 
 ## Chateau fort
@@ -100,7 +100,7 @@ chance de présence : 5
 Si cette carte est posé toutes les unités sont protégés, mais il n'y a que les archets qui peuvent attaquer.
 Cette est carte a une durée de vie de 3 tours
 attaque : 0
-résistence : 500
+résistance : 500
 chance de présence : 10
 
 ## Guérison
@@ -117,7 +117,7 @@ chance de présence : 5
 
 ## Feux du dragon
 
-Cette carte ne peut être posé que si un mage est présent, permet de faire perdre 3 points de résistence à toutes les unités adverce
+Cette carte ne peut être posé que si un mage est présent, permet de faire perdre 3 points de résistance à toutes les unités adverce
 carte valable 2 tours
 chance de présence : 5
 
