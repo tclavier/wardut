@@ -1,11 +1,11 @@
-WarDut le jeux de carte médiéval fantastique des IUTs infos.
+WarDut le jeu de cartes médiéval fantastique des IUTs infos.
 
 # Le principe du TP
 
-Avec toute la classe en binôme vous allez coder un jeux de carte avec une interface console.
-Pour commencer demandez l'accès au dépos git : https://git-iut.univ-lille1.fr/thomas.clavier/wardut-n2p2-g
+Avec toute la classe en binôme vous allez coder un jeu de carte avec une interface console.
+Pour commencer demandez l'accès au dépôt git : https://git-iut.univ-lille1.fr/thomas.clavier/wardut-n2p2-g
 puis le cloner.
-Travaillez en binome sur un seul PC en TDD. 
+Travaillez en binôme sur un seul PC en TDD. 
 
 Pour mémoire les étapes du TDD sont les suivantes :
 
@@ -17,7 +17,7 @@ Pour mémoire les étapes du TDD sont les suivantes :
 * Commit et push
 * etc.
 
-Tout le travail à réaliser se trouve dans le fichier TODO.md, pour prendre une tache et indiquer au reste de la classe que vous avez pris cette tache, modifier le fichier pour déplacer la tache dans la section "En cours". Une fois la tache terminé ne pas oublier de modifier à nouveau ce fichier pour déplacer la tache dans la section "Fini".
+Tout le travail à réaliser se trouve dans le fichier TODO.md, pour prendre une tâche et indiquer au reste de la classe que vous avez pris cette tache, modifier le fichier pour déplacer la tache dans la section "En cours". Une fois la tache terminé ne pas oublier de modifier à nouveau ce fichier pour déplacer la tache dans la section "Fini".
 
 # Le principe du jeux 
 
