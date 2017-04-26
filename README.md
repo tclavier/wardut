@@ -120,13 +120,13 @@ Cette carte ne peut être posé que si un mage est présent, permet de faire per
 carte valable 2 tours
 chance de présence : 5
 
-### Envoutement des loups
+## Envoutement des loups
 
 Cette carte ne peut être posé qye si un mage est présent, permet de rajouter 7 points d'attaque à tous les loups 
 Carte valable 3 tours
 chance de présence : 5
 
-### Armement magique
+## Armement magique
 
 Cette carte ne peut être posé que si un mage est présent, permet de faire gagner 3 points d'attaque à toutes les unités sauf les loups et les géants.
 Carte valable 3 tours
