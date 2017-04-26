@@ -17,18 +17,18 @@ Pour mémoire les étapes du TDD sont les suivantes :
 * Commit et push
 * etc.
 
-Tout le travail à réaliser se trouve dans le fichier TODO.md, pour prendre une tâche et indiquer au reste de la classe que vous avez pris cette tâche, modifier le fichier pour déplacer la tâche dans la section "En cours". Une fois la tâche terminé ne pas oublier de modifier à nouveau ce fichier pour déplacer la tâche dans la section "Fini".
+Tout le travail à réaliser se trouve dans le fichier TODO.md.Pour prendre une tâche et indiquez au reste de la classe que vous avez pris cette tâche, modifiez le fichier pour déplacer la tâche dans la section "En cours". Une fois la tâche terminée ne pas oublier de modifier à nouveau ce fichier pour déplacer la tâche dans la section "Fini".
 
-# Le principe du jeux 
+# Le principe du jeu
 
-* chaque joueurs à 5 cartes en main et 20 cartes en réserve
+* chaque joueurs a 5 cartes en main et 20 cartes en réserve
 * à chaque tour chacun pose une carte 
-* tire une nouvelle carte au hazard dans sa réserve 
-* puis on calcul la bataille
-* une fois que plus personne n'a de carte en main on compte 1 point par unités vivante. Celui qui gagne c'est celui qui a le plus de points.
+* tire une nouvelle carte au hasard dans sa réserve 
+* puis on calcule la bataille
+* une fois que plus personne n'a de carte en main, on compte 1 point par unité vivante. Celui qui gagne, est celui qui a le plus de points.
 
 Ordre des destructions :
-- Chateau fort
+- Château fort
 - Géant
 - loup
 - Fantassin
@@ -41,7 +41,7 @@ Ordre des destructions :
 
 ## Géant
 
-unitée immédiatement présente sur le champ de bataille
+unité immédiatement présente sur le champ de bataille
 attaque : 5
 résistence : 50
 chance de présence : 5 
