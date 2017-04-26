@@ -1,6 +1,10 @@
 # À faire
 
-- Coder 
+- Coder la génération du jeux de carte pour un joueur
+- Coder le calcul des batailles
+- Coder l'affichage du jeux d'un joueur : uniquement sa main
+- Coder l'affichage du jeux d'un joueur : les cartes devant lui
+- Coder le chois de la carte par le joueur
 - Coder la carte Fantassin
 - Coder la carte Archer
 - Coder la carte Mage

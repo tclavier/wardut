@@ -21,9 +21,10 @@ Tout le travail à réaliser se trouve dans le fichier TODO.md, pour prendre une
 
 # Le principe du jeux 
 
-* chaque joueurs à 20 cartes
-* tour par tour
-* à chaque tour chacun pose une carte puis on calcul la bataille
+* chaque joueurs à 5 cartes en main et 20 cartes en réserve
+* à chaque tour chacun pose une carte 
+* tire une nouvelle carte au hazard dans sa réserve 
+* puis on calcul la bataille
 * une fois que plus personne n'a de carte en main on compte 1 point par unités vivante. Celui qui gagne c'est celui qui a le plus de points.
 
 Ordre des destructions :
