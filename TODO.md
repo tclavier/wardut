@@ -1,17 +1,20 @@
 # À faire
 
-- Coder la génération du jeu de cartes pour un joueur
+- Coder la génération du jeu de cartes pour un joueur (méthode generateNewDeck)
+- Coder la condition d'arrêt du jeu
 - Coder le calcul des batailles
 - Coder l'affichage du jeu d'un joueur : uniquement sa main
 - Coder l'affichage du jeu d'un joueur : les cartes devant lui
 - Coder le choix de la carte par le joueur
 - Coder l'action de piocher une nouvelle carte
+- Coder l'affichage du gagnant
 - Coder la carte Fantassin
 - Coder la carte Archer
 - Coder la carte Mage
 - Coder la carte Chevalier
 - Coder la carte Catapulte
 - Coder la carte Château fort
+- Coder la carte Sapeur
 - Coder la carte Géant
 - Coder la carte Loup
 - Coder la carte Guérison
