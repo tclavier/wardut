@@ -17,7 +17,7 @@ Pour mémoire les étapes du TDD sont les suivantes :
 * Commit et push
 * etc.
 
-Tout le travail à réaliser se trouve dans le fichier TODO.md, pour prendre une tâche et indiquer au reste de la classe que vous avez pris cette tache, modifier le fichier pour déplacer la tache dans la section "En cours". Une fois la tache terminé ne pas oublier de modifier à nouveau ce fichier pour déplacer la tache dans la section "Fini".
+Tout le travail à réaliser se trouve dans le fichier TODO.md, pour prendre une tâche et indiquer au reste de la classe que vous avez pris cette tâche, modifier le fichier pour déplacer la tâche dans la section "En cours". Une fois la tâche terminé ne pas oublier de modifier à nouveau ce fichier pour déplacer la tâche dans la section "Fini".
 
 # Le principe du jeux 
 
